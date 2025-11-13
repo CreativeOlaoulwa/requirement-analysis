@@ -85,3 +85,6 @@ Highlight roles and responsibilities across various actors
 Use Case Diagram for the Booking System
 
 Below is the use case diagram illustrating the main actors and interactions in the booking management system.
+
+<img width="296" height="170" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/7e382db4-3e8f-402a-a54a-cda9e764681f" />
+
