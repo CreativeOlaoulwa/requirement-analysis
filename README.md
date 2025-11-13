@@ -37,3 +37,30 @@ Examining requirements for completeness, feasibility, consistency, and priority.
 
 Requirement Validation
 Reviewing and verifying requirements with stakeholders to ensure accuracy and alignment. This confirms that the documented requirements truly represent business needs and are ready for implementation.
+
+Types of Requirements
+Functional Requirements
+
+Definition: Functional requirements describe what the system must do — the specific behaviours, features, and interactions that fulfil the user’s needs.
+Examples (for a booking-management system like the one in the case study):
+
+The system shall allow a user to search for available hotel rooms by location, date range, number of guests.
+
+The system shall allow the user to select a hotel room and proceed to booking with payment integration.
+
+The system shall send a booking confirmation notification (email or push) to the user and hotel manager after a successful booking.
+
+The system shall allow the hotel manager to update room availability and pricing via a management portal.
+
+Non-functional Requirements
+
+Definition: Non-functional requirements describe how the system performs its functions — these include qualities such as performance, reliability, usability, and maintainability.
+Examples (for the same booking-management system):
+
+The system shall respond to search queries within 2 seconds under a normal load.
+
+The system shall be available 99.9% of the time (excluding scheduled maintenance).
+
+The booking service shall scale horizontally to handle at least 10,000 concurrent bookings per minute during peak traffic.
+
+The system shall support modern web browsers and mobile devices (iOS and Android) with consistent user experience.
