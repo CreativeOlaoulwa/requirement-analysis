@@ -18,3 +18,22 @@ Identifying user needs early helps teams make accurate estimations and avoid rew
 3. Improves Product Quality and User Satisfaction
 
 A well-analyzed requirement set leads to solutions that align with user needs. This ensures that the final product performs as intended, meets usability expectations, and delivers meaningful value to its end users.
+
+Key Activities in Requirement Analysis
+
+The requirement analysis process involves several core activities that help teams understand what a system must achieve and how it should function. These activities ensure clarity, alignment, and a strong foundation for the entire development lifecycle.
+
+Requirement Gathering
+Collecting initial information from stakeholders, users, and existing systems to understand the needs, expectations, and challenges the new system must address.
+
+Requirement Elicitation
+Using techniques such as interviews, workshops, surveys, observations, and brainstorming to uncover deeper insights, clarify user needs, and identify hidden or unstated requirements.
+
+Requirement Documentation
+Organizing and recording all collected requirements in structured formats such as SRS documents, user stories, use cases, or functional requirement specifications for clear communication and reference.
+
+Requirement Analysis and Modeling
+Examining requirements for completeness, feasibility, consistency, and priority. This often involves creating models like diagrams, workflows, prototypes, and user journey maps to visualize system behavior.
+
+Requirement Validation
+Reviewing and verifying requirements with stakeholders to ensure accuracy and alignment. This confirms that the documented requirements truly represent business needs and are ready for implementation.
