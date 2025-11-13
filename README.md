@@ -64,3 +64,24 @@ The system shall be available 99.9% of the time (excluding scheduled maintenance
 The booking service shall scale horizontally to handle at least 10,000 concurrent bookings per minute during peak traffic.
 
 The system shall support modern web browsers and mobile devices (iOS and Android) with consistent user experience.
+
+Use Case Diagrams
+
+Use Case Diagrams visually represent how different users (actors) interact with a system. They highlight the major functions the system must support and provide a high-level understanding of user goals.
+These diagrams help teams clarify system behavior, identify missing requirements, and align stakeholders around how the system should work.
+
+Benefits of Use Case Diagrams
+
+Provide a clear, visual understanding of system interactions
+
+Help identify key functional requirements early
+
+Improve communication between developers, designers, and stakeholders
+
+Serve as a foundation for creating user stories, test cases, and workflows
+
+Highlight roles and responsibilities across various actors
+
+Use Case Diagram for the Booking System
+
+Below is the use case diagram illustrating the main actors and interactions in the booking management system.
