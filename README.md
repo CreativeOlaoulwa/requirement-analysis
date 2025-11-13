@@ -88,3 +88,35 @@ Below is the use case diagram illustrating the main actors and interactions in t
 
 <img width="296" height="170" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/7e382db4-3e8f-402a-a54a-cda9e764681f" />
 
+
+
+Acceptance Criteria
+
+Acceptance Criteria define the conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They act as a bridge between requirements and testing, ensuring that the delivered system behaves as expected.
+
+Importance of Acceptance Criteria
+
+Clarifies expectations between developers, testers, and stakeholders.
+
+Provides measurable and testable conditions for verifying feature completeness.
+
+Helps prevent misunderstandings and reduces rework.
+
+Supports the creation of test cases and quality assurance processes.
+
+Example: Checkout Feature (Booking Management System)
+
+Feature: Checkout and Payment for Room Booking
+
+Acceptance Criteria:
+
+User can review booking details (room, dates, price) before payment.
+
+User can select a payment method and complete payment securely.
+
+System validates payment information and confirms successful transactions.
+
+User receives a booking confirmation email or notification immediately after payment.
+
+Booking information is updated in the hotel management system in real-time.
+
